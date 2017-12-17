@@ -58,3 +58,5 @@ Derby provides following tools.
     $ dblook -d connectionURL [options]  # Using shell
     $ java [options] -jar $DERBY_HOME/lib/derbyrun.jar dblook -d connectionURL [options] # Using jar
     java org.apache.derby.tools.dblook -d connectionURL [options] # Within Java program
+
+Description about error codes and warnings can be found in here. http://db.apache.org/derby/docs/10.8/ref/rrefexcept71493.html
